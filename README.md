@@ -4,7 +4,7 @@
 
  ### What I'm doing: 
  
-- 🔭 I’m currently working on Internut Sdn. Bhd as Cloud/DevOps Engineer!
+- 🔭 I’m currently working at Internut Sdn. Bhd as Cloud/DevOps Engineer!
 - 👯 I’m looking to collaborate on DevOps projects and conference events!
 - ⚡ Fun fact: Love spreading knowledge and teaching others! I also believe accessibility should always be built in and not bolted in! 
 
