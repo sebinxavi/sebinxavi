@@ -13,10 +13,10 @@
 - Cloud Platform: AWS 
 - IAC: Ansible, Terraform 
 - Containerization: Docker
-- Image Builder: Packer 
 - Automation: Jenkins
 - Programming Language: Python
 - Source Code Management: GIT
+- Operating System: Linux/UNIX
 
 ### Stats
 
