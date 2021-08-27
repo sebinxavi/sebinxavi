@@ -11,12 +11,13 @@
 <h3 align="left">Skills and Tools:</h3>
 
 - Cloud Platform: AWS 
-- IAC: Ansible, Terraform 
+- Infrastructure as Code: Ansible, Terraform
 - Containerization: Docker
 - Automation: Jenkins
+- Source Code Management: GIT, GitHub Actions
+- Monitoring Tools: Prometheus Grafana, Nagios
 - Programming Language: Python
-- Source Code Management: GIT
-- Operating System: Linux/UNIX
+- OS Platforms: Ubuntu, CentOS, Red Hat Linux
 
 ### Stats
 
