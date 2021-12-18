@@ -11,7 +11,7 @@
 <h3 align="left">Skills and Tools:</h3>
 
 - Cloud Platform: AWS 
-- Containerization: Docker. Kubernetes
+- Containerization: Docker, Kubernetes
 - Infrastructure as Code: Ansible, Terraform
 - Automation: Jenkins, Azure DevOps
 - Source Code Management: GitHub, Azure Repo
