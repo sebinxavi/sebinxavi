@@ -13,9 +13,9 @@
 - Cloud Platform: AWS 
 - Containerization: Docker. Kubernetes
 - Infrastructure as Code: Ansible, Terraform
-- Automation: Jenkins
-- Source Code Management: GIT, GitHub Actions
-- Monitoring Tools: Prometheus Grafana, Nagios
+- Automation: Jenkins, Azure DevOps
+- Source Code Management: GitHub, Azure Repo
+- Monitoring Tools: Elasticsearch, Logstash, Kibana
 - Programming Language: Python
 - OS Platforms: Ubuntu, CentOS, Red Hat Linux
 
