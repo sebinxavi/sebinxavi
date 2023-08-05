@@ -10,14 +10,16 @@
 
 <h3 align="left">Skills and Tools:</h3>
 
-- Cloud Platform: AWS 
-- Containerization: Docker, Kubernetes
-- Infrastructure as Code: Ansible, Terraform
-- Automation: Jenkins
-- Source Code Management: GitHub, Azure Repo
+- Cloud Platforms: AWS
+- IaC: Terraform
+- Version Control: Git
+- Containerization: Docker | Container
+- Orchestration: Kubernetes
+- CI/CD: Github Actions
+- Relational Databases: Snowflake, MySQL
+- Programming Languages: Python, Bash
 - Monitoring Tools: Elasticsearch, Logstash, Kibana
-- Programming Language: Python
-- OS Platforms: Ubuntu, CentOS, Red Hat Linux
+
 
 ### Stats
 
