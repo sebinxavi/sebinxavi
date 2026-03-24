@@ -21,9 +21,9 @@ Building AI-powered infrastructure, automation pipelines, and server management 
 
 ---
 
-### 📊 Stats
+### 🚀 Recent Projects
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sebinxavi&count_private=true&theme=dark&hide_border=true)
+- **[AI-OpenClaw](https://github.com/sebinxavi/openclaw)** — AI-powered server management via Discord & Telegram. Natural language commands that SSH into your servers, diagnose issues, and fix them autonomously.
 
 ---
 
