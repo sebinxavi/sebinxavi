@@ -6,14 +6,6 @@ Building AI-powered infrastructure, automation pipelines, and server management 
 
 ---
 
-### 🔭 What I'm working on
-
-- **[AI-OpenClaw](https://github.com/sebinxavi/openclaw)** — AI-powered server management via Discord & Telegram. Natural language meets SSH.
-- **[sebintech.com](https://sebintech.com)** — My portfolio & project showcase
-- Server provisioning scripts, SSH hardening, and automated monitoring at scale
-
----
-
 ### ⚡ Skills & Tools
 
 | Area | Tools |
@@ -22,7 +14,7 @@ Building AI-powered infrastructure, automation pipelines, and server management 
 | **MLOps & AI** | Ollama, LLM Tool Calling, AI Agents |
 | **Containerization** | Docker, Kubernetes |
 | **CI/CD** | GitHub Actions |
-| **IaC & Automation** | Bash, Python, Cloud-Init |
+| **IaC & Automation** | Terraform, Bash, Python, Cloud-Init |
 | **Data** | Snowflake, MySQL |
 | **Monitoring** | Elasticsearch, Logstash, Kibana |
 | **Version Control** | Git, GitHub |
