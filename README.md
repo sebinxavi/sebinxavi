@@ -1,31 +1,42 @@
 ## Hi there 👋, I'm Sebin Xavi!
-#### DevOps Engineer!
 
+**Senior Data DevOps & MLOps Engineer** based in Budapest, Hungary 🇭🇺
 
- ### What I'm doing: 
- 
-- 🔭 I’m currently working as DevOps Engineer!
-- 👯 I’m looking to collaborate on DevOps projects and conference events!
-- ⚡ Fun fact: Love spreading knowledge and teaching others! I also believe accessibility should always be built in and not bolted in! 
+Building AI-powered infrastructure, automation pipelines, and server management tools.
 
-<h3 align="left">Skills and Tools:</h3>
+---
 
-- Cloud Platforms: AWS
-- IaC: Terraform
-- Version Control: Git
-- Containerization: Docker | Container
-- Orchestration: Kubernetes
-- CI/CD: Github Actions
-- Relational Databases: Snowflake, MySQL
-- Programming Languages: Python, Bash
-- Monitoring Tools: Elasticsearch, Logstash, Kibana
+### 🔭 What I'm working on
 
+- **[AI-OpenClaw](https://github.com/sebinxavi/openclaw)** — AI-powered server management via Discord & Telegram. Natural language meets SSH.
+- **[sebintech.com](https://sebintech.com)** — My portfolio & project showcase
+- Server provisioning scripts, SSH hardening, and automated monitoring at scale
 
-### Stats
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sebinxavi&count_private=true)  
- 
-### Reach me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sebinxavi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sebinxavi/)
-<a href="mailto:sebin.xavi1@gmail.com"><img src="https://img.shields.io/badge/-sebin.xavi1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
- 
+### ⚡ Skills & Tools
+
+| Area | Tools |
+|------|-------|
+| **Cloud** | AWS |
+| **MLOps & AI** | Ollama, LLM Tool Calling, AI Agents |
+| **Containerization** | Docker, Kubernetes |
+| **CI/CD** | GitHub Actions |
+| **IaC & Automation** | Bash, Python, Cloud-Init |
+| **Data** | Snowflake, MySQL |
+| **Monitoring** | Elasticsearch, Logstash, Kibana |
+| **Version Control** | Git, GitHub |
+
+---
+
+### 📊 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sebinxavi&count_private=true&theme=dark&hide_border=true)
+
+---
+
+### 📫 Reach me
+
+[![LinkedIn](https://img.shields.io/badge/-Sebin_Xavi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebinxavi/)
+[![Gmail](https://img.shields.io/badge/-sebin.xavi@yahoo.com-D14836?style=flat&logo=mail.ru&logoColor=white)](mailto:sebin.xavi@yahoo.com)
+[![Website](https://img.shields.io/badge/-sebintech.com-000?style=flat&logo=safari&logoColor=white)](https://sebintech.com)
